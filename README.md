@@ -3,6 +3,8 @@
 
 My project stemmed from a cross-departmental collaboration that focused on "Exploring the Feasibility of Automating Biocuration for Neuropharmacology and Zebrafish (*Danio rerio*)."
 
+> #### ***Further details are found within the report.***
+
 ### Problem
 It's difficult for bio-researchers to manually sort through millions of published articles in order to find the most **relevant**, **reputable** ones. Ideally, the gathered articles should contain information that can be used to develop other experiments and direct further research for *Ivermectin regulation of the GABA pathway*.
 
