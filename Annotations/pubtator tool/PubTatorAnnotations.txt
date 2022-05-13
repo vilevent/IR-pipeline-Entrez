@@ -1,0 +1,178 @@
+ID: 23133688
+                Annotation Counts
+GABA                            8
+mice                            7
+toxicity                        4
+P-gp                            4
+neurotoxicity                   3
+Drug toxicity                   1
+Mdr1                            1
+MOX                             1
+Xenopus                         1
+rat                             1
+P-glycoprotein                  1
+humans                          1
+moxidectin                      1
+mammalian                       1
+
+ID: 22677714
+                        Annotation Counts
+human                                   2
+humans                                  1
+Cys                                     1
+neurological disorders                  1
+
+ID: 28196978
+        Annotation Counts
+cancer                  1
+
+ID: 16126457
+        Annotation Counts
+human                   1
+humans                  1
+
+-----------------------------------------------------
+PMIDS for the 10 manually annotated abstracts (Julia)
+
+ID: 12421359
+                         Annotation Counts
+HG1                                      6
+GABA                                     6
+GAB-1                                    3
+Xenopus                                  2
+ivermectin                               2
+gab-1                                    2
+Haemonchus contortus                     1
+gamma-aminobutyric acid                  1
+Caenorhabditis elegans                   1
+
+ID: 23133688 (same ID as above)
+                Annotation Counts
+GABA                            8
+mice                            7
+toxicity                        4
+P-gp                            4
+neurotoxicity                   3
+Drug toxicity                   1
+Mdr1                            1
+MOX                             1
+Xenopus                         1
+rat                             1
+P-glycoprotein                  1
+humans                          1
+moxidectin                      1
+mammalian                       1
+
+ID: 7957605
+                         Annotation Counts
+GABA                                    10
+ivermectin                               5
+gamma-aminobutyric acid                  2
+chloride                                 1
+diazepam                                 1
+pentobarbital                            1
+picrotoxin                               1
+Zn2+                                     1
+bicuculline                              1
+mouse                                    1
+
+ID: 21575687
+                                                    Annotation Counts
+ATP                                                                 8
+glutamate                                                           2
+hypothalamic                                                        2
+GABA                                                                2
+P2Y1                                                                2
+rats                                                                1
+Suramin                                                             1
+oxytocin                                                            1
+pyridoxalphosphate-6-azophenyl-2',4'-disulfonic...                  1
+noradrenaline                                                       1
+calcium                                                             1
+P2Y2                                                                1
+rat                                                                 1
+BzATP                                                               1
+2'-deoxy-N6-methyladenosine 3',5'-bisphosphate ...                  1
+alphabetameATP                                                      1
+vasopressin                                                         1
+P2Y12                                                               1
+ATPgammaS                                                           1
+MRS 2179                                                            1
+PPADS                                                               1
+
+ID: 11082440
+                         Annotation Counts
+GABA                                     8
+avermectins                              4
+toxicity                                 3
+avermectin                               3
+rat                                      3
+glycine                                  2
+diazepam                                 1
+tonic seizures                           1
+Avermectins                              1
+seizure                                  1
+mouse                                    1
+pentylenetetrazole                       1
+gamma-aminobutyric acid                  1
+strychnine                               1
+mice                                     1
+
+ID: 10771281
+                                    Annotation Counts
+GABA                                                6
+rat                                                 2
+)gamma(2S) gamma-aminobutyric acid                  1
+gamma(2S) GABA                                      1
+embryonic kidney                                    1
+human                                               1
+HEK) 293                                            1
+
+ID: 22465149
+                         Annotation Counts
+T. urticae                               4
+Tetranychus urticae                      2
+GluCl                                    2
+two-spotted spider mite                  1
+histamine                                1
+glutamate                                1
+abamectin                                1
+gamma-aminobutyric acid                  1
+chloride                                 1
+GABA                                     1
+Rdl                                      1
+
+ID: 9368907
+                         Annotation Counts
+GABA                                     2
+5-HT                                     2
+Ascaris suum                             2
+parasitic nematode                       1
+ivermectin                               1
+glutamic acid                            1
+glutamate                                1
+gamma-Aminobutyric acid                  1
+paralysis                                1
+serotonin                                1
+
+ID: 22586367
+            Annotation Counts
+hydrogen                    2
+GABA                        1
+C. elegans                  1
+glutamate                   1
+glycine                     1
+
+ID: 12196558
+                        Annotation Counts
+Sindbis virus                           2
+glutamate                               2
+GABA                                    2
+infected                                1
+C. elegans                              1
+transgenic mice                         1
+Caenorhabditis elegans                  1
+human                                   1
+neurological disorders                  1
+mammalian                               1
+
