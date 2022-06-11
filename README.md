@@ -62,7 +62,7 @@ get_query_info(query_in, genes, db_name)
 ```
 
 ```python
-cited_cnt_table(df_summary, db_name)
+cited_cnt_table(df_summary, db_name, no_dupes_col=False)
 ```
 
 ```python 
